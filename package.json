@@ -1,0 +1,21 @@
+{
+  "name": "gitlab-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashenluci/Gitlab-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashenluci/Gitlab-Project/issues"
+  },
+  "homepage": "https://github.com/ashenluci/Gitlab-Project#readme"
+}
